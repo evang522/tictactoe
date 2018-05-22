@@ -94,7 +94,7 @@ class App extends Component {
             <button onClick={() => this.resetGame()}className='reset-button'>
             Reset Game
             </button>
-            <button onClick={() => this.resetStats()}className='reset-button'>
+            <button onClick={() => this.resetStats()}className='red reset-button'>
             Reset Stats
            </button>
           </div>
